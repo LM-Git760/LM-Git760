@@ -12,5 +12,5 @@
 
 - 👋 Hi, I’m Florian Schur
 - 👀 I’m interested in App Developing
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Swift
 
